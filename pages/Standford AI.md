@@ -1,3 +1,8 @@
+- ## General information
+- Important links
+	- [Course overview](https://stanford-cs221.github.io/autumn2019/#schedule)
+	-
+- ## Lessons
 - [[Standford AI Lesson 1]]
 -
 -
