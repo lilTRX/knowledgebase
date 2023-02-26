@@ -17,3 +17,6 @@
 	- 1 in 6 to stop
 	- 1 in 6 to get a
 	- 1 in 6 to get b
+	- Expected value = (probability of scoring b points) x (b points) + (probability of losing a point) x (-a points) + (probability of scoring 0 points) x (0 points)
+	- Expected value = (1/6) x (b) + (1/6) x (-a) + (4/6) x (0)
+	- Expected value = (b-a)/6
