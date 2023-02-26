@@ -1,5 +1,7 @@
 - [slides](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=overview.js&mode=print1pp)
 - [homework](https://stanford-cs221.github.io/autumn2019/assignments/foundations/index.html)
+- ## Topics
+- Overview, but i skipped that as its not important to learn this
 - [[Optimization]]
--
 - ## Homework
+-
