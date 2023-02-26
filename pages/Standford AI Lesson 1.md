@@ -10,4 +10,6 @@
 	- the value of 0 of f(0) minimizes the distance to the 0 punkt
 	- taking the half of a negative number makes it bigger not smaller, this would obfuscate the result
 - b
-	- f(x) is the the "positive sum" of all x so basically flips all x to be positive
+	- f(x) is the the "positive sum" of all x so basically flips all x to be positive and then sums them
+	- g(x) give us the bigger sum of either all negativly fliped x values or the sum of the x values as is
+	- f(x) is always greater
