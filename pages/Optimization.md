@@ -11,3 +11,4 @@
 - Find the costs of each problem
 - use caches to save known subsolutions
 	- with cache we pay for the number or nodes not the number of paths
+- abstract away the details
