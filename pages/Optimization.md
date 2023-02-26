@@ -1,1 +1,2 @@
-- ##
+- What are the two types of optimizations we can use?
+	- Discrete optimiz
