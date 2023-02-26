@@ -5,3 +5,6 @@
 	- Continuous optimization: find the best vector of real numbers
 		- ![image.png](../assets/image_1677399842845_0.png){:height 72, :width 212}
 		- Algorythmic tool: gradient descent
+-
+- ## Principle: Reduce the problem
+-
