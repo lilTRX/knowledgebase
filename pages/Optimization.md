@@ -5,7 +5,9 @@
 	- Continuous optimization: find the best vector of real numbers
 		- ![image.png](../assets/image_1677399842845_0.png){:height 72, :width 212}
 		- Algorythmic tool: gradient descent
--
+- Regression sum
+	- ![image.png](../assets/image_1677402125958_0.png)
+	- we have a function (the red line)
 - ## Principle: Reduce the problem
 - Find the possible actions that can be performed
 - Find the costs of each problem
