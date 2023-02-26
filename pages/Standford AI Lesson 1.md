@@ -7,5 +7,6 @@
 - ## Homework
 - ### Problem 1
 - a
-	- the value of 0 of f(0) minimizes the distance to
+	- the value of 0 of f(0) minimizes the distance to the 0 punkt
 	- taking the half of a negative number makes it bigger not smaller, this would obfuscate the result
+- b
