@@ -7,4 +7,6 @@
 		- Algorythmic tool: gradient descent
 -
 - ## Principle: Reduce the problem
+- Find the possible actions that can be performed
+- Find the costs of each problem
 -
