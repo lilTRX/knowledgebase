@@ -12,4 +12,4 @@
 - b
 	- f(x) is the the "positive sum" of all x so basically flips all x to be positive and then sums them
 	- g(x) give us the bigger sum of either all negativly fliped x values or the sum of the x values as is
-	- f(x) is always greater
+	- f(x) is always greater but i dont know how to show this with math, the idea is that f(x)-g(x) >=0
