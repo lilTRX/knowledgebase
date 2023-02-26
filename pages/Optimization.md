@@ -1,4 +1,7 @@
 - What are the two types of optimizations we can use?
 	- Discrete optimization: find the best discrete object
 		- ![image.png](../assets/image_1677399780663_0.png){:height 63, :width 138}
-		- Al
+		- Algorythimc tool: dynamic programming
+	- Continuous optimization: find the best vector of real numbers
+		- ![image.png](../assets/image_1677399842845_0.png)
+		- Algorythmic tool: gradient descent
