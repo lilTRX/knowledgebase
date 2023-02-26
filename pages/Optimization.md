@@ -1,2 +1,4 @@
 - What are the two types of optimizations we can use?
-	- Discrete optimiz
+	- Discrete optimization: find the best discrete object
+		- ![image.png](../assets/image_1677399780663_0.png){:height 63, :width 138}
+		- Al
