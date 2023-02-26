@@ -7,4 +7,4 @@
 - ## Homework
 - ### Problem 1
 - a
-	-
+	- the value of 0 of
