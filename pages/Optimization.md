@@ -8,7 +8,8 @@
 - Regression sum
 	- ![image.png](../assets/image_1677402125958_0.png)
 	- we have a function (the red line which is F(w)) and test values (2,4)(4,2).
-	- we go ahead an check the differenc
+	- we go ahead an check the difference in outcome of the test values in comparison to our function
+		- example: f(2) = 2, testvalues(2) = 4. So 2 - 4 = -2. -2 is the
 - ## Principle: Reduce the problem
 - Find the possible actions that can be performed
 - Find the costs of each problem
