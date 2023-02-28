@@ -21,4 +21,5 @@
 	- Expected value = (1/6) x (b) + (1/6) x (-a) + (4/6) x (0)
 	- Expected value = (b-a)/6
 - d
+	- the derivative of log(L(p)) is maximizing
 	-
