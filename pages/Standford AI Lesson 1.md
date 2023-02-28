@@ -27,5 +27,5 @@
 	-
 	-
 - Problem 2
-	- a n hoch 5
+	- a n^10
 	-
