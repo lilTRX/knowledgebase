@@ -23,5 +23,5 @@
 - d
 	- the derivative of log(L(p)) is maximizing getting head on the first turn based on the obseved data that is provided by the task
 - e
-	- the *λ*
+	- the *λ* lambad term that is multiplied by the amount of dimensions is a regularization tool
 	-
