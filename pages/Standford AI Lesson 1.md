@@ -27,5 +27,10 @@
 	-
 	-
 - Problem 2
-	- a n^10
+	- we have 6 features we want to identify
+	- each feature is in a box with the position n*n and the dimensions n*n
+	- this lead to n^4
+	- we do this 6 times
+	- n^4*6
+	- we skip the
 	-
