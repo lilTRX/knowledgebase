@@ -22,4 +22,6 @@
 	- Expected value = (b-a)/6
 - d
 	- the derivative of log(L(p)) is maximizing getting head on the first turn based on the obseved data that is provided by the task
+- e
+	-
 	-
