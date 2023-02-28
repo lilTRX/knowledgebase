@@ -21,5 +21,5 @@
 	- Expected value = (1/6) x (b) + (1/6) x (-a) + (4/6) x (0)
 	- Expected value = (b-a)/6
 - d
-	- the derivative of log(L(p)) is maximizing
+	- the derivative of log(L(p)) is maximizing getting head on the first turn based on the obseved data that is provided by the task
 	-
